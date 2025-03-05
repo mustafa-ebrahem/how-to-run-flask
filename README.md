@@ -37,12 +37,3 @@ To run the application, execute the following command from the project directory
 ```
 python app.py
 ```
-
-
-- For virtual environment setup (recommended):
-  ```
-  python -m venv venv
-  ```
-  
-  Activate the virtual environment:
-  - Windows: `venv\Scripts\activate`
